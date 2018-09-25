@@ -1,0 +1,582 @@
+[
+  {
+    "id": "clothing-pants",
+    "label": {
+      "en": "Pants",
+      "fr": "Pantalon"
+    },
+    "plural": {
+      "en": "Pants",
+      "fr": "Pantalons"
+    },
+    "aliases": {
+      "en": [
+        "jeans",
+        "pants",
+        "trousers"
+      ],
+      "fr": [
+        "pantalon"
+      ]
+    },
+    "category": "clothing",
+    "locations": [
+      "dressing room",
+      "bedroom",
+      "closet",
+      "washing machine"
+    ],
+    "icons": {
+      "Entypo": "man",
+      "FontAwesome": "male"
+    }
+  },
+  {
+    "id": "clothing-hoodie",
+    "label": {
+      "en": "Hoodie",
+      "fr": "Hoodie"
+    },
+    "aliases": {
+      "en": [
+        "hoodie"
+      ]
+    },
+    "category": "clothing",
+    "locations": [
+      "dressing room",
+      "bedroom",
+      "closet",
+      "washing machine"
+    ],
+    "icons": {
+      "Entypo": "man",
+      "FontAwesome": "male"
+    }
+  },
+  {
+    "id": "clothing-pullover",
+    "label": {
+      "en": "Pullover",
+      "fr": "Pullover"
+    },
+    "aliases": {
+      "en": [
+        "pull",
+        "pull-hover",
+        "pullover"
+      ],
+      "fr": []
+    },
+    "category": "clothing",
+    "locations": [
+      "dressing room",
+      "bedroom",
+      "closet",
+      "washing machine"
+    ],
+    "icons": {
+      "Entypo": "man",
+      "FontAwesome": "male"
+    }
+  },
+  {
+    "id": "clothing-hat",
+    "label": {
+      "en": "Hat",
+      "fr": "Chapeau"
+    },
+    "aliases": {
+      "en": [
+        "hat"
+      ],
+      "fr": [
+        "chapeau"
+      ]
+    },
+    "category": "clothing",
+    "locations": [
+      "dressing room",
+      "bedroom",
+      "closet"
+    ],
+    "icons": {
+      "Entypo": "man",
+      "FontAwesome": "male"
+    }
+  },
+  {
+    "id": "clothing-cap",
+    "label": {
+      "en": "Cap",
+      "fr": "Casquette"
+    },
+    "aliases": {
+      "en": [
+        "cap"
+      ],
+      "fr": [
+        "casquette"
+      ]
+    },
+    "category": "clothing",
+    "locations": [
+      "dressing room",
+      "bedroom",
+      "closet"
+    ],
+    "icons": {
+      "Entypo": "man",
+      "FontAwesome": "male"
+    }
+  },
+  {
+    "id": "vehicle-bicycle",
+    "label": {
+      "en": "bicycle",
+      "fr": "Bicyclette"
+    },
+    "aliases": {
+      "en": [
+        "bicycle",
+        "bike"
+      ],
+      "fr": [
+        "vélo",
+        "bicyclette"
+      ]
+    },
+    "category": "vehicle",
+    "locations": [
+      "garage",
+      "garden",
+      "basement",
+      "street"
+    ],
+    "icons": {
+      "FontAwesome": "bicycle"
+    }
+  },
+  {
+    "id": "device-phone",
+    "label": {
+      "en": "phone",
+      "fr": "Téléphone"
+    },
+    "aliases": {
+      "en": [
+        "smartphone",
+        "smart-phone",
+        "mobilephone",
+        "mobile-phone",
+        "cellphone",
+        "cell-phone",
+        "cell",
+        "mobile",
+        "phone"
+      ],
+      "fr": [
+        "téléphone portable",
+        "téléphone",
+        "telephone portable",
+        "telephone",
+        "téléphone cellulaire",
+        "cellulaire",
+        "portable"
+      ]
+    },
+    "category": "device",
+    "locations": [
+      "desk",
+      "office",
+      "bedroom",
+      "living room"
+    ],
+    "icons": {
+      "FontAwesome": "mobile-phone",
+      "MaterialDesign": "smartphone"
+    }
+  },
+  {
+    "id": "device-laptop",
+    "label": {
+      "en": "Laptop",
+      "fr": "Ordinateur portable"
+    },
+    "aliases": {
+      "en": [
+        "pc laptop",
+        "laptop",
+        "macbook",
+        "macbook air",
+        "macbook pro"
+      ],
+      "fr": [
+        "pc portable",
+        "ordi portable",
+        "ordinateur portable"
+      ]
+    },
+    "category": "device",
+    "locations": [
+      "office",
+      "desk",
+      "bedroom",
+      "living room",
+      "couch"
+    ],
+    "icons": {
+      "MaterialDesign": "laptop-mac",
+      "FontAwesome": "laptop",
+      "Entypo": "laptop",
+      "Ionicons": "md-laptop"
+    }
+  },
+  {
+    "id": "device-tablet",
+    "label": {
+      "en": "Tablet",
+      "fr": "Tablette"
+    },
+    "aliases": {
+      "en": [
+        "tablet"
+      ],
+      "fr": [
+        "tablette"
+      ]
+    },
+    "category": "device",
+    "locations": [
+      "desk",
+      "bed",
+      "loving room"
+    ],
+    "icons": {
+      "FontAwesome": "tablet",
+      "Entypo": "tablet"
+    }
+  },
+  {
+    "id": "device-printer",
+    "label": {
+      "en": "Printer",
+      "fr": "Imprimante"
+    },
+    "aliases": {
+      "en": [
+        "epson",
+        "printer"
+      ],
+      "fr": [
+        "imprimante"
+      ]
+    },
+    "category": "device",
+    "locations": [
+      "office",
+      "desk"
+    ],
+    "icons": {
+      "SimpleLineIcons": "printer",
+      "Feather": "printer"
+    }
+  },
+  {
+    "id": "vehicle-car",
+    "label": {
+      "en": "Car",
+      "fr": "Voiture"
+    },
+    "aliases": {
+      "en": [
+        "car",
+        "ride"
+      ],
+      "fr": [
+        "voiture",
+        "automobile",
+        "char"
+      ]
+    },
+    "category": "vehicle",
+    "locations": [
+      "garage",
+      "street"
+    ],
+    "icons": {
+      "FontAwesome": "car",
+      "Ionicons": "car",
+      "MaterialDesign": "car"
+    }
+  },
+  {
+    "id": "animal-dog",
+    "label": {
+      "en": "Dog",
+      "fr": "Chien"
+    },
+    "aliases": {
+      "en": [
+        "dog",
+        "puppy",
+        "bitch"
+      ],
+      "fr": [
+        "chien",
+        "chiot"
+      ]
+    },
+    "category": "animal",
+    "locations": [
+      "garden",
+      "living room"
+    ],
+    "icons": {
+      "FontAwesome": "paw",
+      "Ionicons": "ios-paw"
+    }
+  },
+  {
+    "id": "animal-cat",
+    "label": {
+      "en": "Cat",
+      "fr": "Chat"
+    },
+    "aliases": {
+      "en": [
+        "cat",
+        "kitten",
+        "pussy"
+      ],
+      "fr": [
+        "chat",
+        "chatte",
+        "minou"
+      ]
+    },
+    "category": "animal",
+    "locations": [
+      "living room",
+      "garden"
+    ],
+    "icons": {
+      "FontAwesome": "paw",
+      "Ionicons": "ios-paw"
+    }
+  },
+  {
+    "id": "appliance-microwave",
+    "label": {
+      "en": "Microwave",
+      "fr": "Micro-onde"
+    },
+    "aliases": {
+      "en": [
+        "microwave",
+        "microwaves"
+      ],
+      "fr": [
+        "micro-onde",
+        "micro-ondes"
+      ]
+    },
+    "category": "appliance",
+    "locations": [
+      "garage",
+      "bathroom",
+      "basement"
+    ],
+    "icons": {
+      "MaterialCommunityIcons": "washing-machine"
+    }
+  },
+  {
+    "id": "appliance-washing-machine",
+    "label": {
+      "en": "Washing Machine",
+      "fr": "Machine à laver"
+    },
+    "aliases": {
+      "en": [
+        "washing machine"
+      ],
+      "fr": [
+        "machine à laver",
+        "machine a laver",
+        "lave-linge",
+        "lave linge"
+      ]
+    },
+    "category": "appliance",
+    "locations": [
+      "garage",
+      "bathroom",
+      "basement"
+    ],
+    "icons": {
+      "MaterialCommunityIcons": "washing-machine"
+    }
+  },
+  {
+    "id": "vehicle-motorcycle",
+    "label": {
+      "en": "Motorcycle",
+      "fr": "Moto"
+    },
+    "aliases": {
+      "en": [
+        "motorcycle",
+        "motorbike",
+        "cycle",
+        "scooter"
+      ],
+      "fr": [
+        "moto",
+        "motocyclette"
+      ]
+    },
+    "category": "vehicle",
+    "locations": [
+      "garage",
+      "street"
+    ],
+    "icons": {
+      "FontAwesome": "motorcycle",
+      "FontAwesome5": "motorcycle"
+    }
+  },
+  {
+    "id": "furniture-bed",
+    "label": {
+      "en": "Bed",
+      "fr": "Lit"
+    },
+    "aliases": {
+      "en": [
+        "bed"
+      ],
+      "fr": [
+        "lit"
+      ]
+    },
+    "category": "furniture",
+    "locations": [
+      "bedroom"
+    ],
+    "icons": {
+      "FontAwesome": "bed",
+      "FontAwesome5": "bed"
+    }
+  },
+  {
+    "id": "object-book",
+    "label": {
+      "en": "Book",
+      "fr": "Livre"
+    },
+    "aliases": {
+      "en": [
+        "book"
+      ],
+      "fr": [
+        "livre"
+      ]
+    },
+    "category": "object",
+    "locations": [
+      "living room",
+      "bedroom",
+      "office",
+      "library"
+    ],
+    "icons": {
+      "FontAwesome": "book",
+      "Entypo": "book"
+    }
+  },
+  {
+    "id": "vehicle-wheelchair",
+    "label": {
+      "en": "Wheelchair",
+      "fr": "Fauteuil Roulant"
+    },
+    "aliases": {
+      "en": [
+        "wheelchair"
+      ],
+      "fr": [
+        "fauteuil roulant"
+      ]
+    },
+    "category": "vehicle",
+    "locations": [
+      "living room",
+      "lobby",
+      "garage",
+      "bedroom"
+    ],
+    "icons": {
+      "FontAwesome": "wheelchair",
+      "FontAwesome5": "wheelchair"
+    }
+  },
+  {
+    "id": "game-boardgame",
+    "label": {
+      "en": "Boardgame",
+      "fr": "Jeu de société"
+    },
+    "aliases": {
+      "en": [
+        "board game",
+        "board games",
+        "boardgame",
+        "boardgames"
+      ],
+      "fr": [
+        "jeu de société",
+        "jeu de plateau",
+        "jeux de société",
+        "jeux de plateau"
+      ]
+    },
+    "category": "game",
+    "locations": [
+      "bedroom",
+      "garage",
+      "basement",
+      "living room"
+    ],
+    "icons": {
+      "FontAwesome5": "chess-pawn"
+    }
+  },
+  {
+    "id": "furniture-couch",
+    "label": {
+      "en": "Couch",
+      "fr": "Canapé"
+    },
+    "aliases": {
+      "en": [
+        "couch",
+        "sofa"
+      ],
+      "fr": [
+        "canape",
+        "canapé",
+        "canap"
+      ]
+    },
+    "category": "furniture",
+    "locations": [
+      "living room",
+      "bedroom",
+      "basement"
+    ],
+    "icons": {
+      "FontAwesome5": "couch"
+    }
+  }
+]
