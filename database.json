@@ -16,7 +16,8 @@
         "trousers"
       ],
       "fr": [
-        "pantalon"
+        "pantalon",
+        "pantalons"
       ]
     },
     "category": "clothing",
@@ -37,9 +38,14 @@
       "en": "Hoodie",
       "fr": "Hoodie"
     },
+    "plural": {
+      "en": "Hoodies",
+      "fr": "Hoodies"
+    },
     "aliases": {
       "en": [
-        "hoodie"
+        "hoodie",
+        "hoodies"
       ]
     },
     "category": "clothing",
@@ -60,11 +66,18 @@
       "en": "Pullover",
       "fr": "Pullover"
     },
+    "plural": {
+      "en": "Pullovers",
+      "fr": "Pullovers"
+    },
     "aliases": {
       "en": [
         "pull",
         "pull-hover",
-        "pullover"
+        "pullover",
+        "pulls",
+        "pull-hovers",
+        "pullovers"
       ],
       "fr": []
     },
@@ -86,12 +99,18 @@
       "en": "Hat",
       "fr": "Chapeau"
     },
+    "plural": {
+      "en": "Hats",
+      "fr": "Chapeaux"
+    },
     "aliases": {
       "en": [
-        "hat"
+        "hat",
+        "hats"
       ],
       "fr": [
-        "chapeau"
+        "chapeau",
+        "chapeaux"
       ]
     },
     "category": "clothing",
@@ -111,12 +130,18 @@
       "en": "Cap",
       "fr": "Casquette"
     },
+    "plural": {
+      "en": "Caps",
+      "fr": "Casquettes"
+    },
     "aliases": {
       "en": [
-        "cap"
+        "cap",
+        "caps"
       ],
       "fr": [
-        "casquette"
+        "casquette",
+        "casquettes"
       ]
     },
     "category": "clothing",
@@ -133,17 +158,27 @@
   {
     "id": "vehicle-bicycle",
     "label": {
-      "en": "bicycle",
+      "en": "Bicycle",
       "fr": "Bicyclette"
+    },
+    "plural": {
+      "en": "Bicycles",
+      "fr": "Bicyclettes"
     },
     "aliases": {
       "en": [
         "bicycle",
-        "bike"
+        "bike",
+        "bicycles",
+        "bikes"
       ],
       "fr": [
         "vélo",
-        "bicyclette"
+        "bicyclette",
+        "vtt",
+        "vélos",
+        "bicyclettes",
+        "vtts"
       ]
     },
     "category": "vehicle",
@@ -163,6 +198,10 @@
       "en": "phone",
       "fr": "Téléphone"
     },
+    "plural": {
+      "en": "Phones",
+      "fr": "Téléphones"
+    },
     "aliases": {
       "en": [
         "smartphone",
@@ -173,7 +212,16 @@
         "cell-phone",
         "cell",
         "mobile",
-        "phone"
+        "phone",
+        "smartphones",
+        "smart-phones",
+        "mobilephones",
+        "mobile-phones",
+        "cellphones",
+        "cell-phones",
+        "cells",
+        "mobiles",
+        "phones"
       ],
       "fr": [
         "téléphone portable",
@@ -182,7 +230,14 @@
         "telephone",
         "téléphone cellulaire",
         "cellulaire",
-        "portable"
+        "portable",
+        "téléphone portables",
+        "téléphones",
+        "telephone portables",
+        "telephones",
+        "téléphone cellulaires",
+        "cellulaires",
+        "portables"
       ]
     },
     "category": "device",
@@ -203,18 +258,31 @@
       "en": "Laptop",
       "fr": "Ordinateur portable"
     },
+    "plural": {
+      "en": "Laptops",
+      "fr": "Ordinateurs portables"
+    },
     "aliases": {
       "en": [
         "pc laptop",
         "laptop",
         "macbook",
         "macbook air",
-        "macbook pro"
+        "macbook pro",
+        "pc laptops",
+        "laptops",
+        "macbooks",
+        "macbooks air"
       ],
       "fr": [
         "pc portable",
         "ordi portable",
-        "ordinateur portable"
+        "ordinateur portable",
+        "pc portables",
+        "pcs portables",
+        "ordi portables",
+        "ordis portables",
+        "ordinateurs portables"
       ]
     },
     "category": "device",
@@ -238,12 +306,22 @@
       "en": "Tablet",
       "fr": "Tablette"
     },
+    "plural": {
+      "en": "Tablets",
+      "fr": "Tablettes"
+    },
     "aliases": {
       "en": [
-        "tablet"
+        "tablet",
+        "tablets",
+        "microsoft surface",
+        "surface pro",
+        "ipad",
+        "ipads"
       ],
       "fr": [
-        "tablette"
+        "tablette",
+        "tablettes"
       ]
     },
     "category": "device",
@@ -263,13 +341,19 @@
       "en": "Printer",
       "fr": "Imprimante"
     },
+    "plural": {
+      "en": "Printers",
+      "fr": "Imprimantes"
+    },
     "aliases": {
       "en": [
         "epson",
-        "printer"
+        "printer",
+        "printers"
       ],
       "fr": [
-        "imprimante"
+        "imprimante",
+        "imprimantes"
       ]
     },
     "category": "device",
@@ -288,15 +372,24 @@
       "en": "Car",
       "fr": "Voiture"
     },
+    "plural": {
+      "en": "Cars",
+      "fr": "Voitures"
+    },
     "aliases": {
       "en": [
         "car",
-        "ride"
+        "ride",
+        "cars",
+        "rides"
       ],
       "fr": [
         "voiture",
         "automobile",
-        "char"
+        "char",
+        "voitures",
+        "automobiles",
+        "chars"
       ]
     },
     "category": "vehicle",
@@ -316,15 +409,26 @@
       "en": "Dog",
       "fr": "Chien"
     },
+    "plural": {
+      "en": "Dogs",
+      "fr": "Chiens"
+    },
     "aliases": {
       "en": [
         "dog",
         "puppy",
-        "bitch"
+        "bitch",
+        "dogs",
+        "puppies",
+        "bitches"
       ],
       "fr": [
         "chien",
-        "chiot"
+        "chiot",
+        "chienne",
+        "chiens",
+        "chiots",
+        "chiennes"
       ]
     },
     "category": "animal",
@@ -343,16 +447,30 @@
       "en": "Cat",
       "fr": "Chat"
     },
+    "plural": {
+      "en": "Cats",
+      "fr": "Chats"
+    },
     "aliases": {
       "en": [
         "cat",
         "kitten",
-        "pussy"
+        "pussy",
+        "kitties",
+        "kittens",
+        "kitty",
+        "cats",
+        "pussies"
       ],
       "fr": [
         "chat",
         "chatte",
-        "minou"
+        "minou",
+        "chaton",
+        "chats",
+        "chattes",
+        "minous",
+        "chatons"
       ]
     },
     "category": "animal",
@@ -368,17 +486,26 @@
   {
     "id": "appliance-microwave",
     "label": {
-      "en": "Microwave",
-      "fr": "Micro-onde"
+      "en": "Microwave over",
+      "fr": "Four à micro-onde"
+    },
+    "plural": {
+      "en": "Microwave ovens",
+      "fr": "Fours à micro-ondes"
     },
     "aliases": {
       "en": [
         "microwave",
-        "microwaves"
+        "microwaves",
+        "microwave oven"
       ],
       "fr": [
         "micro-onde",
-        "micro-ondes"
+        "micro-ondes",
+        "four à micro-onde",
+        "four à micro onde",
+        "four à micro-ondes",
+        "four à micro ondes"
       ]
     },
     "category": "appliance",
@@ -394,18 +521,27 @@
   {
     "id": "appliance-washing-machine",
     "label": {
-      "en": "Washing Machine",
+      "en": "Washing machine",
       "fr": "Machine à laver"
+    },
+    "plural": {
+      "en": "Washing machines",
+      "fr": "Machines à laver"
     },
     "aliases": {
       "en": [
-        "washing machine"
+        "washing machine",
+        "washing machines"
       ],
       "fr": [
         "machine à laver",
         "machine a laver",
         "lave-linge",
-        "lave linge"
+        "lave linge",
+        "machines à laver",
+        "machines a laver",
+        "lave-linges",
+        "lave linges"
       ]
     },
     "category": "appliance",
@@ -424,16 +560,29 @@
       "en": "Motorcycle",
       "fr": "Moto"
     },
+    "Label": {
+      "en": "Motorcycles",
+      "fr": "Motos"
+    },
     "aliases": {
       "en": [
         "motorcycle",
         "motorbike",
         "cycle",
-        "scooter"
+        "scooter",
+        "motorcycles",
+        "motorbikes",
+        "cycles",
+        "scooters",
+        "vespa"
       ],
       "fr": [
         "moto",
-        "motocyclette"
+        "motocyclette",
+        "mobylette",
+        "motos",
+        "motocyclettes",
+        "mobylettes"
       ]
     },
     "category": "vehicle",
@@ -452,12 +601,18 @@
       "en": "Bed",
       "fr": "Lit"
     },
+    "plural": {
+      "en": "Beds",
+      "fr": "Lits"
+    },
     "aliases": {
       "en": [
-        "bed"
+        "bed",
+        "beds"
       ],
       "fr": [
-        "lit"
+        "lit",
+        "lits"
       ]
     },
     "category": "furniture",
@@ -475,12 +630,18 @@
       "en": "Book",
       "fr": "Livre"
     },
+    "plural": {
+      "en": "Books",
+      "fr": "Livres"
+    },
     "aliases": {
       "en": [
-        "book"
+        "book",
+        "books"
       ],
       "fr": [
-        "livre"
+        "livre",
+        "livres"
       ]
     },
     "category": "object",
@@ -499,14 +660,20 @@
     "id": "vehicle-wheelchair",
     "label": {
       "en": "Wheelchair",
-      "fr": "Fauteuil Roulant"
+      "fr": "Fauteuil roulant"
+    },
+    "plural": {
+      "en": "Wheelchairs",
+      "fr": "Fauteiuls roulants"
     },
     "aliases": {
       "en": [
-        "wheelchair"
+        "wheelchair",
+        "wheelchairs"
       ],
       "fr": [
-        "fauteuil roulant"
+        "fauteuil roulant",
+        "fauteuils roulants"
       ]
     },
     "category": "vehicle",
@@ -526,6 +693,10 @@
     "label": {
       "en": "Boardgame",
       "fr": "Jeu de société"
+    },
+    "plural": {
+      "en": "Boardgames",
+      "fr": "Jeux de société"
     },
     "aliases": {
       "en": [
@@ -558,15 +729,29 @@
       "en": "Couch",
       "fr": "Canapé"
     },
+    "plural": {
+      "en": "Couches",
+      "fr": "Canapés"
+    },
     "aliases": {
       "en": [
         "couch",
-        "sofa"
+        "sofa",
+        "couchs",
+        "sofas",
+        "settee"
       ],
       "fr": [
         "canape",
         "canapé",
-        "canap"
+        "canap",
+        "divan",
+        "canapes",
+        "canapés",
+        "canaps",
+        "divans",
+        "canapé d'angle",
+        "canapés d'angle"
       ]
     },
     "category": "furniture",
@@ -578,5 +763,390 @@
     "icons": {
       "FontAwesome5": "couch"
     }
-  }
+  },
+
+  {
+    "id": "appliance-fireextinguisher",
+    "label": {
+      "en": "Fire extinguisher",
+      "fr": "Extincteur"
+    },
+    "plural": {
+      "en": "Fire extinguishers",
+      "fr": "Extincteurs"
+    },
+    "aliases": {
+      "en": [
+        "fire extinguisher",
+        "fire extinguishers"
+      ],
+      "fr": [
+        "extincteur",
+        "extincteurs"
+      ]
+    },
+    "category": "appliance",
+    "locations": [
+      "basement",
+      "garage",
+      "living room"
+    ],
+    "icons": {
+      "FontAwesome": "fire-extinguisher",
+      "FontAwesome5": "fire-extinguisher"
+    }
+  },
+  {
+    "id": "device-bluray",
+    "label": {
+      "en": "Blu-ray player",
+      "fr": "Lecteur Blu-ray"
+    },
+    "plural": {
+      "en": "Blu-ray players",
+      "fr": "Lecteurs Blu-ray"
+    },
+    "aliases": {
+      "en": [
+        "blu-ray player",
+        "blu-ray players",
+        "bluray player",
+        "bluray players",
+        "blu-ray drive",
+        "blu-ray drives",
+        "bluray drive",
+        "bluray drives"
+      ],
+      "fr": [
+        "lecteur blu-ray",
+        "lecteurs blu-ray",
+        "lecteur bluray",
+        "lecteurs bluray"
+      ]
+    },
+    "category": "device",
+    "locations": [
+      "living room"
+    ],
+    "icons": {
+      "MaterialCommunityIcons": "disc-player"
+    }
+  },
+  {
+    "id": "object-bluray",
+    "label": {
+      "en": "Blu-ray",
+      "fr": "Blu-ray"
+    },
+    "plural": {
+      "en": "Blu-rays",
+      "fr": "Blu-rays"
+    },
+    "aliases": {
+      "en": [
+        "blu-ray",
+        "bluray",
+        "blu-rays",
+        "blurays"
+      ],
+      "fr": [
+        "disque blu-ray",
+        "disque bluray",
+        "disques blu-ray",
+        "disques bluray"
+      ]
+    },
+    "category": "object",
+    "locations": [
+      "living room",
+      "bedroom"
+    ],
+    "icons": {
+      "SimpleLineIcons": "disc"
+    }
+  },
+  {
+    "id": "game-videogame",
+    "label": {
+      "en": "Videogame",
+      "fr": "Jeu vidéo"
+    },
+    "plural": {
+      "en": "Videogames",
+      "fr": "Jeux vidéos"
+    },
+    "aliases": {
+      "en": [
+        "videogame",
+        "video-game",
+        "video game",
+        "videogames",
+        "video-games",
+        "video games"
+      ],
+      "fr": [
+        "jeu vidéo",
+        "jeu video",
+        "jeux vidéo",
+        "jeux video",
+        "jeux vidéos",
+        "jeux videos"
+      ]
+    },
+    "category": "game",
+    "locations": [
+      "bedroom",
+      "living room"
+    ],
+    "icons": {
+      "FontAwesome": "gamepad"
+    }
+  },
+  {
+    "id": "game-console",
+    "label": {
+      "en": "Video game console",
+      "fr": "Console de jeu vidéo"
+    },
+    "plural": {
+      "en": "Video game consoles",
+      "fr": "Consoles de jeu vidéo"
+    },
+    "aliases": {
+      "en": [
+        "video game console",
+        "videogame console",
+        "video games console",
+        "videogames console",
+        "xbox",
+        "xbox one",
+        "xbox one x",
+        "ps 3",
+        "ps 4",
+        "ps 4",
+        "psp",
+        "playstation",
+        "nintendo"
+      ],
+      "fr": [
+        "console de jeu",
+        "console de jeux",
+        "console de jeu video",
+        "console de jeux vidéos"
+      ]
+    },
+    "category": "game",
+    "location": [
+      "bedroom",
+      "living room"
+    ],
+    "icons": {
+      "FontAwesome": "gamepad"
+    }
+  },
+  {
+    "id": "valuable-jewel",
+    "label": {
+      "en": "Jewel",
+      "fr": "Bijou"
+    },
+    "plural": {
+      "en": "Jewels",
+      "fr": "Bijoux"
+    },
+    "aliases": {
+      "en": [
+        "jewel",
+        "jewels",
+        "jewelry",
+        "pendant",
+        "gold",
+        "silver",
+        "diamond"
+      ],
+      "fr": [
+        "bijou",
+        "bague",
+        "collier",
+        "or",
+        "argent",
+        "diamant"
+      ]
+    },
+    "category": "valuable",
+    "locations": [
+      "bedroom",
+      "safe"
+    ],
+    "icons": {
+      "FontAwesome": "diamond"
+    }
+  },
+  {
+    "id": "device-headphones",
+    "label": {
+      "en": "Headphones",
+      "fr": "Casque audio"
+    },
+    "plural": {
+      "en": "Headphones",
+      "fr": "Casques audio"
+    },
+    "aliases": {
+      "en": [
+        "headphone",
+        "headphones",
+        "airpod",
+        "airpods"
+      ],
+      "fr": [
+        "casque audio",
+        "écouteurs",
+        "écouteur"
+      ]
+    },
+    "category": "headphones",
+    "locations": [
+      "bedroom",
+      "office",
+      "living room"
+    ],
+    "icons": {
+      "FontAwesome5": "headphones-alt"
+    }
+  },
+  {
+    "id": "device-hdd",
+    "label": {
+      "en": "Hard drive",
+      "fr": "Disque dur"
+    },
+    "plural": {
+      "en": "Hard drives",
+      "fr": "Disques durs"
+    },
+    "aliases": {
+      "en": [
+        "hard-drive",
+        "harddrive",
+        "hard drive",
+        "hdd",
+        "ssd",
+        "drive",
+        "hard-drives",
+        "harddrives",
+        "hard drives",
+        "hdds",
+        "ssds",
+        "drives"
+      ],
+      "fr": [
+        "disque dur",
+        "disque externe",
+        "disque dur ssd",
+        "ssd usb",
+        "sssd externe",
+        "disque ssd",
+        "disques dur",
+        "disques durs",
+        "disques externes",
+        "disques durs ssd",
+        "ssds usb",
+        "sssds externes",
+        "disques ssd"
+      ]
+    },
+    "category": "device",
+    "locations": [
+      "office"
+    ],
+    "icons": {
+      "Feather": "drive"
+    }
+  },
+  {
+    "id": "device-camera",
+    "label": {
+      "en": "Camera",
+      "fr": "Appareil photo"
+    },
+    "plural": {
+      "en": "Cameras",
+      "fr": "Appareils photo"
+    },
+    "aliases": {
+      "en": [
+        "camera",
+        "cameras"
+      ],
+      "fr": [
+        "appareil photo",
+        "appareil photo"
+      ]
+    },
+    "category": "device",
+    "locations": [
+      "bedroom",
+      "office",
+      "garage"
+    ],
+    "icons": {
+      "FontAwesome": "camera-retro"
+    }
+   },
+   {
+    "id": "instrument-guitar",
+    "label": {
+      "en": "Guitar",
+      "fr": "Guitare"
+    },
+    "plural": {
+      "en": "Guitars",
+      "fr": "Guitares"
+    },
+    "aliases": {
+      "en": [
+        "guitar",
+        "guitars"
+      ],
+      "fr": [
+        "guitare",
+        "guitares"
+      ]
+    },
+    "category": "instrument",
+    "locations": [
+      "bedroom",
+      "garage"
+    ],
+    "icons": {
+      "MaterialCommunityIcons": "guitar-acoustic"
+    }
+  },
+  {
+   "id": "instrument-piano",
+   "label": {
+     "en": "Piano",
+     "fr": "Piano"
+   },
+   "plural": {
+     "en": "Pianos",
+     "fr": "Pianos"
+   },
+   "aliases": {
+     "en": [
+       "piano",
+       "pianos"
+     ]
+   },
+   "category": "instrument",
+   "locations": [
+     "bedroom",
+     "living room",
+     "garage"
+   ],
+   "icons": {
+     "MaterialCommunityIcons": "piano"
+   }
+ }
 ]

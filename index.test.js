@@ -14,8 +14,26 @@ const testData = [{
       "score": 1,
       "value": {
         "aliases": {
-          "en": ["cat", "kitten", "pussy"],
-          "fr": ["chat", "chatte", "minou"]
+          "en": [
+            "cat",
+            "kitten",
+            "pussy",
+            "kitties",
+            "kittens",
+            "kitty",
+            "cats",
+            "pussies"
+          ],
+          "fr": [
+            "chat",
+            "chatte",
+            "minou",
+            "chaton",
+            "chats",
+            "chattes",
+            "minous",
+            "chatons"
+          ]
         },
         "category": "animal",
         "icons": {
@@ -26,6 +44,10 @@ const testData = [{
         "label": {
           "en": "Cat",
           "fr": "Chat"
+        },
+        "plural": {
+          "en": "Cats",
+          "fr": "Chats"
         },
         "locations": [
           "living room",
@@ -43,8 +65,8 @@ const testData = [{
       "score": 1,
       "value": {
         "aliases": {
-          "en": ["bed"],
-          "fr": ["lit"]
+          "en": ["bed","beds"],
+          "fr": ["lit","lits"]
         },
         "category": "furniture",
         "icons": {
@@ -55,6 +77,10 @@ const testData = [{
         "label": {
           "en": "Bed",
           "fr": "Lit"
+        },
+        "plural": {
+          "en": "Beds",
+          "fr": "Lits"
         },
         "locations": [
           "bedroom"
@@ -74,7 +100,14 @@ const testData = [{
       "score": 1,
       "value": {
         "aliases": {
-          "en": ["pull", "pull-hover", "pullover"],
+          "en": [
+            "pull",
+            "pull-hover",
+            "pullover",
+            "pulls",
+            "pull-hovers",
+            "pullovers"
+          ],
           "fr": []
         },
         "category": "clothing",
@@ -86,6 +119,10 @@ const testData = [{
         "label": {
           "en": "Pullover",
           "fr": "Pullover"
+        },
+        "plural": {
+          "en": "Pullovers",
+          "fr": "Pullovers"
         },
         "locations": [
           "dressing room",
@@ -104,9 +141,30 @@ const testData = [{
       },
       "score": 1,
       "value": {
+        "plural": {
+          "en": "Couches",
+          "fr": "Canapés"
+        },
         "aliases": {
-          "en": ["couch", "sofa"],
-          "fr": ["canape", "canapé", "canap"]
+          "en": [
+            "couch",
+            "sofa",
+            "couchs",
+            "sofas",
+            "settee"
+          ],
+          "fr": [
+            "canape",
+            "canapé",
+            "canap",
+            "divan",
+            "canapes",
+            "canapés",
+            "canaps",
+            "divans",
+            "canapé d'angle",
+            "canapés d'angle"
+          ]
         },
         "category": "furniture",
         "icons": {
