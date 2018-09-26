@@ -1,5 +1,28 @@
 [
   {
+    "id": "unknown",
+    "label": {
+      "en": "Unknown",
+      "fr": "Inconnu"
+    },
+    "plural": {
+      "en": "Unknowns",
+      "fr": "Inconnus"
+    },
+    "aliases": {
+      "en": [
+        "null",
+        "undefined",
+        "unknow",
+        "untitled",
+        "default"
+      ]
+    },
+    "icons": {
+      "Entypo": "price-tag"
+    }
+  },
+  {
     "id": "clothing-pants",
     "label": {
       "en": "Pants",
@@ -1061,7 +1084,7 @@
       "office"
     ],
     "icons": {
-      "Feather": "drive"
+      "Feather": "hard-drive"
     }
   },
   {
